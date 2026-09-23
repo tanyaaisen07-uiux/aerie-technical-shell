@@ -30,7 +30,7 @@ The site is designed and implemented for both desktop and mobile, with a dedicat
 - HTML5
 - CSS3 (custom properties, `clamp()`-based fluid typography, media queries)
 - Vanilla JavaScript (ES modules, no framework)
-- [Vite](https://vitejs.dev/) — build tool and dev server
+- [Vite](https://vitejs.dev/) : build tool and dev server
 - Google Fonts (Space Grotesk, Manrope, DM Mono)
 
 ## Key Features
@@ -53,3 +53,7 @@ https://github.com/tanyaaisen07-uiux/aerie-technical-shell
 ## Status
 
 Concept project / portfolio piece.
+
+## Author
+Designed and built by Tania Aisen, Product & UI/UX Designer
+[Portfolio](https://tania-aisen.framer.website/) · [LinkedIn](https://www.linkedin.com/in/tania-aisen) 
